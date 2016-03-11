@@ -406,8 +406,8 @@ class Difficulties
 };
 showTitles=1;
 showRadio=1;
-mouseSensitivityX=0.2;
-mouseSensitivityY=0.2;
+mouseSensitivityX=0.1;
+mouseSensitivityY=0.1;
 floatingZoneArea=0;
 headBob=0;
 lastCampaignMission="Into the Storm";
